@@ -28,7 +28,7 @@ redirect_from:
 
 - **TIMING: Temporality-Aware Integrated Gradients for Time Series Explanation**  
   **Hyeongwon Jang\***, Changhun Kim\*, Eunho Yang (*: equal contribution)  
-  **ICML 2025** **<span style="color:#c62828;">(Spotlight Presentation, 313/12107 = 2.6%)</span>**  
+  **ICML** 2025 **<span style="color:#c62828;">(Spotlight Presentation, 313/12107 = 2.6%)</span>**  
   [Paper](https://arxiv.org/abs/2506.05035) · [Code](https://github.com/drumpt/TIMING)
 
 - **Time Series Classification with Large Language Models via Linguistic Scaffolding**  
