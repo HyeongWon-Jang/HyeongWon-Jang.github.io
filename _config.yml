@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Hyeongwon Jang
 email: janghw0911@kaist.ac.kr
-description: "Ph.D. Student at the Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST)."
+description: # None
 github_username: HyeongWon-Jang
 minimal_mistakes_skin: "contrast"
 search: true
@@ -56,7 +56,7 @@ plugins:
 author:
   name   : "Hyeongwon Jang"
   avatar : "/assets/images/hyeongwon-jang.jpg"
-  bio    : "Empty"
+  bio    : "Ph.D. Student at the Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST)."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
