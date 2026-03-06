@@ -2,6 +2,7 @@
 permalink: /publications/
 title: "Publications"
 author_profile: true
+classes: wide
 ---
 
 **ReviewScore: Misinformed Peer Review Detection with Large Language Models**  
