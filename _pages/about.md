@@ -76,7 +76,7 @@ Empty
 
 ## Honors & Awards
 
-- **ICML 2025 Travel Award**, International Conference on Machine Learning (ICML), 2025
+- **Travel Award**, International Conference on Machine Learning (ICML), 2025
 - **Summa Cum Laude**, Seoul National University, 2024
 - **Hansung Scholarship**, 2020
 
