@@ -3,11 +3,20 @@ permalink: /
 title: "About"
 author_profile: true
 classes: wide
-redirect_from:
-  - /about/
 ---
 
+<div id="about"></div>
+
+## About
 Empty
+
+<div id="news"></div>
+
+## News
+
+Empty
+
+<div id="publications"></div>
 
 ## Publications
 
@@ -40,3 +49,15 @@ Empty
   June Yong Yang\*, Geondo Park\*, Joowon Kim, **Hyeongwon Jang**, Eunho Yang (*: equal contribution)  
   **ICLR** 2024  
   [Paper](https://openreview.net/forum?id=8F6bws5JBy)
+
+<div id="education"></div>
+
+## Education
+
+### Experience
+
+### Academic Services
+
+### Honors & Awards
+
+### Invited Talks
