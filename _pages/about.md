@@ -54,10 +54,42 @@ Empty
 
 ## Education
 
-### Experience
+**Korea Advanced Institute of Science and Technology (KAIST)**  
+Ph.D. Student in Artificial Intelligence (Integrated M.S.-Ph.D. Program)
+Advisor: Prof. Eunho Yang  
+Sep. 2024 – Present  
 
-### Academic Services
+**Seoul National University (SNU)**  
+B.S. in Mathematical Sciences, Artificial Intelligence (Double Major)  
+Mar. 2021 – Aug. 2024 
 
-### Honors & Awards
+## Experience
 
-### Invited Talks
+## Experience
+
+**AITRICS – Virtual Doctor Team**, Seoul, South Korea  
+*Research Intern*  
+Nov. 2024 – Dec. 2024
+
+**KAIST Machine Learning & Intelligence Lab (MLILAB)**, Daejeon, South Korea  
+*Undergraduate Research Intern*  
+Advisor: Prof. Eunho Yang  
+Jun. 2023 – Aug. 2024  
+
+## Honors & Awards
+
+**ICML 2025 Travel Awards**, International Conference on Machine Learning  
+2025
+
+**Summa Cum Laude**, Seoul National University  
+2024  
+
+**Hansung Scholarship for Gifted Students**
+2020
+
+## Invited Talks
+
+**TIMING: Temporality-Aware Integrated Gradients for Time Series Explanation**
+
+- Samsung AI Forum (SAIF) 2025 — Sep. 2025  
+- CIKM Workshop on Human-Centered AI (HCAI 2025), Oral Presentation — Oct. 2025
