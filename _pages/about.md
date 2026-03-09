@@ -83,6 +83,5 @@ Empty
 ## Invited Talks
 
 **TIMING: Temporality-Aware Integrated Gradients for Time Series Explanation**
-
 - Samsung AI Forum (SAIF) 2025 — Sep. 2025  
 - CIKM Workshop on Human-Centered AI (HCAI 2025), Oral Presentation — Oct. 2025
