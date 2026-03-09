@@ -78,14 +78,9 @@ Jun. 2023 – Aug. 2024
 
 ## Honors & Awards
 
-**ICML 2025 Travel Awards**, International Conference on Machine Learning  
-2025
-
-**Summa Cum Laude**, Seoul National University  
-2024  
-
-**Hansung Scholarship for Gifted Students**
-2020
+- **ICML 2025 Travel Award**, International Conference on Machine Learning (ICML), 2025
+- **Summa Cum Laude**, Seoul National University, 2024
+- **Hansung Scholarship for Gifted Students**, 2020
 
 ## Invited Talks
 
