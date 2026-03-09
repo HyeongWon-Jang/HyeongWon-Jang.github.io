@@ -7,13 +7,25 @@ classes: wide
 <div id="about"></div>
 
 ## About
-Empty
+I am a Ph.D. student in Artificial Intelligence at **KAIST**, advised by **Prof. Eunho Yang**, and a member of the [Machine Learning & Intelligence Lab (MLILAB)](https://mli.kaist.ac.kr/).
 
+I received my B.S. from **Seoul National University** in 2024, majoring in **Mathematical Sciences and Artificial Intelligence**.
+
+My current research focuses on developing machine learning and large language model methods for complex data modalities such as **time series** and **multimodal data**.
+
+**Research Interests**
+- Time series classification with large language models  
+- Explainable AI for time series  
+- Multimodal reasoning and generation
+  
 <div id="news"></div>
 
 ## News
 
-Empty
+- **[2026.02]** One paper accepted to **CVPR 2026**.
+- **[2026.01]** One paper accepted to **ICLR 2026**.
+- **[2025.05]** One paper accepted to **ICML 2025 (Spotlight)**..
+
 
 <div id="publications"></div>
 
