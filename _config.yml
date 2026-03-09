@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Hyeongwon Jang
+title: 
 email: janghw0911@kaist.ac.kr
 description: "Ph.D. Student at the Graduate School of AI, KAIST."
 github_username: HyeongWon-Jang
