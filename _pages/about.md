@@ -65,8 +65,6 @@ Mar. 2021 – Aug. 2024
 
 ## Experience
 
-## Experience
-
 **AITRICS – Virtual Doctor Team**, Seoul, South Korea  
 *Research Intern*  
 Nov. 2024 – Dec. 2024
