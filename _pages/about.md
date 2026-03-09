@@ -7,13 +7,8 @@ classes: wide
 <div id="about"></div>
 
 ## About
-I am a Ph.D. student in Artificial Intelligence at Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. Eunho Yang. Prior to this, I received a B.S. in Mathematical Sciences and Artificial Intelligence from Seoul National University in 2024. My research focuses on developing machine learning methods for complex data modalities such as time series and multimodal data. In particular, I am interested in time series classification with large language models, explainable AI for time series, and multimodal reasoning and generation.
+I am a Ph.D. student in Artificial Intelligence at the Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. Eunho Yang. I received my B.S. in Mathematical Sciences and Artificial Intelligence from Seoul National University in 2024. My current research interests include machine learning methods for time series data, explainable AI for time series, and multimodal reasoning with large language models.
 
-**Research Interests**
-- Time series classification with large language models  
-- Explainable AI for time series  
-- Multimodal reasoning and generation
-  
 <div id="news"></div>
 
 ## News
