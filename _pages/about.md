@@ -15,7 +15,7 @@ I am a Ph.D. student in Artificial Intelligence at the Korea Advanced Institute 
 
 - **[2026.02]** One paper accepted to **CVPR 2026**.
 - **[2026.01]** One paper accepted to **ICLR 2026**.
-- **[2025.05]** One paper accepted to **ICML 2025 (Spotlight)**..
+- **[2025.05]** One paper accepted to **ICML 2025 (Spotlight)**.
 
 
 <div id="publications"></div>
