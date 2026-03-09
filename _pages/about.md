@@ -54,25 +54,25 @@ Empty
 
 ## Education
 
-**Korea Advanced Institute of Science and Technology (KAIST)**  
-Ph.D. Student in Artificial Intelligence (Integrated M.S.-Ph.D. Program)
-Advisor: Prof. Eunho Yang  
-Sep. 2024 – Present  
+- **Korea Advanced Institute of Science and Technology (KAIST)**  
+  Ph.D. Student in Artificial Intelligence (Integrated M.S.-Ph.D. Program)
+  Advisor: Prof. Eunho Yang  
+  Sep. 2024 – Present  
 
-**Seoul National University (SNU)**  
-B.S. in Mathematical Sciences, Artificial Intelligence (Double Major)  
-Mar. 2021 – Aug. 2024 
+- **Seoul National University (SNU)**  
+  B.S. in Mathematical Sciences, Artificial Intelligence (Double Major)  
+  Mar. 2021 – Aug. 2024 
 
 ## Experience
 
-**AITRICS – Virtual Doctor Team**, Seoul, South Korea  
-*Research Intern*  
-Nov. 2024 – Dec. 2024
+- **AITRICS – Virtual Doctor Team**, Seoul, South Korea  
+  *Research Intern*  
+  Nov. 2024 – Dec. 2024
 
-**KAIST Machine Learning & Intelligence Lab (MLILAB)**, Daejeon, South Korea  
-*Undergraduate Research Intern*  
-Advisor: Prof. Eunho Yang  
-Jun. 2023 – Aug. 2024  
+- **KAIST Machine Learning & Intelligence Lab (MLILAB)**, Daejeon, South Korea  
+  *Undergraduate Research Intern*  
+  Advisor: Prof. Eunho Yang  
+  Jun. 2023 – Aug. 2024  
 
 ## Honors & Awards
 
