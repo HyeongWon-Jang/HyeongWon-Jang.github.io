@@ -7,7 +7,7 @@ classes: wide
 <div id="about"></div>
 
 ## About
-I am a Ph.D. student in Artificial Intelligence at the Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. Eunho Yang, and a member of the [Machine Learning & Intelligence Lab (MLILAB)](https://mli.kaist.ac.kr/). I received my B.S. in Mathematical Sciences and Artificial Intelligence from Seoul National University in 2024. My current research interests include machine learning methods for time series data, explainable AI for time series, and multimodal reasoning and generation.
+I am a Ph.D. student in Artificial Intelligence at the Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. Eunho Yang, and a member of the [Machine Learning & Intelligence Lab (MLILAB)](https://mli.kaist.ac.kr/). I received B.S. in Mathematical Sciences and Artificial Intelligence from Seoul National University in 2024. My current research interests include machine learning methods for time series data, explainable AI for time series, and multimodal reasoning and generation.
 
 <div id="news"></div>
 
