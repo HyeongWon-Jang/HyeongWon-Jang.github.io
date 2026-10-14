@@ -10,3 +10,12 @@ main:
 
   - title: "Education"
     url: /#education
+
+  - title: "Experience"
+    url: /#experience
+
+  - title: "Awards"
+    url: /#awards
+
+  - title: "Talks"
+    url: /#talks

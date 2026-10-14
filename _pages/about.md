@@ -7,12 +7,14 @@ classes: wide
 <div id="about"></div>
 
 ## About
-I am a Ph.D. student in Artificial Intelligence at the Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. Eunho Yang, and a member of the [Machine Learning & Intelligence Lab (MLILAB)](https://mli.kaist.ac.kr/). I received B.S. in Mathematical Sciences and Artificial Intelligence from Seoul National University in 2024. My current research interests include machine learning methods for time series data, explainable AI for time series, and multimodal reasoning and generation.
+I am a Ph.D. student in Artificial Intelligence at the Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. Eunho Yang, and a member of the [Machine Learning & Intelligence Lab (MLILAB)](https://mli.kaist.ac.kr/). I received B.S. in Mathematical Sciences and Artificial Intelligence from Seoul National University in 2024. My current research interests include machine learning methods for time series data, explainable AI for time series, and multimodal reasoning and generation. Recently, I have also become interested in robotics and embodied reasoning.
 
 <div id="news"></div>
 
 ## News
 
+- **[2026.08]** One paper accepted to **EMNLP 2026 (Findings)**.
+- **[2026.06]** New preprint **TRIAGE** is available on [arXiv](https://arxiv.org/abs/2606.09030).
 - **[2026.02]** One paper accepted to **CVPR 2026**.
 - **[2026.01]** One paper accepted to **ICLR 2026**.
 - **[2025.05]** One paper accepted to **ICML 2025 (Spotlight)**.
@@ -22,9 +24,14 @@ I am a Ph.D. student in Artificial Intelligence at the Korea Advanced Institute 
 
 ## Publications
 
+- **TRIAGE: Dialectical LLM Reasoning for Explainable Risk Prediction on Irregularly Sampled Medical Time Series**  
+  **Hyeongwon Jang\***, Gyouk Chu\*, Changhun Kim, Hangyul Yoon, Jeonguk Lee, Eunho Yang, Joonhyung Park (*: equal contribution)  
+  Preprint  
+  [Paper](https://arxiv.org/abs/2606.09030) · [Project Page](https://hyeongwon-jang.github.io/triage-project-page/) · [Code](https://github.com/HyeongWon-Jang/TRIAGE) · [Models](https://huggingface.co/collections/Hyeongwon/triage)
+
 - **ReviewScore: Misinformed Peer Review Detection with Large Language Models**  
   Hyun Ryu, Doohyuk Jang, Hyemin S. Lee, Joonhyun Jeong, Gyeongman Kim, Donghyeon Cho, Gyouk Chu, Minyeong Hwang, **Hyeongwon Jang**, Changhun Kim, Hae Chan Kim, Jina Kim, Joowon Kim, Yoonjeon Kim, Kwanhyung Lee, Chanjae Park, Heecheol Yun, Gregor Betz, Eunho Yang  
-  Preprint  
+  Findings of **EMNLP** 2026  
   [Paper](https://arxiv.org/abs/2509.21679)
 
 - **Progress by Pieces: Test-Time Scaling for Autoregressive Image Generation**  
@@ -57,13 +64,15 @@ I am a Ph.D. student in Artificial Intelligence at the Korea Advanced Institute 
 ## Education
 
 - **Korea Advanced Institute of Science and Technology (KAIST)**  
-  Ph.D. Student in Artificial Intelligence (Integrated M.S.-Ph.D. Program)
+  Ph.D. Student in Artificial Intelligence (Integrated M.S.-Ph.D. Program)  
   Advisor: Prof. Eunho Yang  
   Sep. 2024 – Present  
 
 - **Seoul National University (SNU)**  
   B.S. in Mathematical Sciences, Artificial Intelligence (Double Major)  
-  Mar. 2021 – Aug. 2024 
+  Mar. 2021 – Aug. 2024  
+
+<div id="experience"></div>
 
 ## Experience
 
@@ -76,11 +85,15 @@ I am a Ph.D. student in Artificial Intelligence at the Korea Advanced Institute 
   Advisor: Prof. Eunho Yang  
   Jun. 2023 – Aug. 2024  
 
+<div id="awards"></div>
+
 ## Honors & Awards
 
 - **Travel Award**, International Conference on Machine Learning (ICML), 2025
 - **Summa Cum Laude**, Seoul National University, 2024
 - **Hansung Scholarship**, 2020
+
+<div id="talks"></div>
 
 ## Invited Talks
 
