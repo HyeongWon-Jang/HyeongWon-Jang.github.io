@@ -17,6 +17,7 @@ I am a Ph.D. student in Artificial Intelligence at the Korea Advanced Institute 
 - **[2026.06]** New preprint **TRIAGE** is available on [arXiv](https://arxiv.org/abs/2606.09030).
 - **[2026.02]** One paper accepted to **CVPR 2026**.
 - **[2026.01]** One paper accepted to **ICLR 2026**.
+- **[2025.11]** TIMING received the **Best Paper Award** at the CIKM 2025 Workshop on Human-Centric AI.
 - **[2025.05]** One paper accepted to **ICML 2025 (Spotlight)**.
 
 
@@ -25,34 +26,40 @@ I am a Ph.D. student in Artificial Intelligence at the Korea Advanced Institute 
 ## Publications
 
 - **TRIAGE: Dialectical LLM Reasoning for Explainable Risk Prediction on Irregularly Sampled Medical Time Series**  
-  **Hyeongwon Jang\***, Gyouk Chu\*, Changhun Kim, Hangyul Yoon, Jeonguk Lee, Eunho Yang, Joonhyung Park (*: equal contribution)  
+  **Hyeongwon Jang\***, Gyouk Chu\*, Changhun Kim, Hangyul Yoon, Jeonguk Lee, Eunho Yang, Joonhyung Park† (*: equal contribution, †: corresponding author)  
   Preprint  
   [Paper](https://arxiv.org/abs/2606.09030) · [Project Page](https://hyeongwon-jang.github.io/triage-project-page/) · [Code](https://github.com/HyeongWon-Jang/TRIAGE) · [Models](https://huggingface.co/collections/Hyeongwon/triage)
 
+- **Learning to Select Source-Traceable Evidence for Language-Model Prediction from Irregular Clinical Time Series**  
+  Kwanhyung Lee, Juhwan Choi, Jongheon Kim, Joohyung Lee, **Hyeongwon Jang**, Eunho Yang  
+  Preprint  
+  [Paper](https://arxiv.org/abs/2605.20292)
+
 - **ReviewScore: Misinformed Peer Review Detection with Large Language Models**  
-  Hyun Ryu, Doohyuk Jang, Hyemin S. Lee, Joonhyun Jeong, Gyeongman Kim, Donghyeon Cho, Gyouk Chu, Minyeong Hwang, **Hyeongwon Jang**, Changhun Kim, Hae Chan Kim, Jina Kim, Joowon Kim, Yoonjeon Kim, Kwanhyung Lee, Chanjae Park, Heecheol Yun, Gregor Betz, Eunho Yang  
+  Hyun Ryu, Doohyuk Jang, Hyemin S. Lee, Joonhyun Jeong, Gyeongman Kim, Donghyeon Cho, Gyouk Chu, Minyeong Hwang, **Hyeongwon Jang**, Changhun Kim, Haechan Kim, Jina Kim, Joowon Kim, Yoonjeon Kim, Kwanhyung Lee, Chanjae Park, Heecheol Yun, Gregor Betz, Eunho Yang  
   Findings of **EMNLP** 2026  
   [Paper](https://arxiv.org/abs/2509.21679)
 
 - **Progress by Pieces: Test-Time Scaling for Autoregressive Image Generation**  
   Joonhyung Park\*, **Hyeongwon Jang\***, Joowon Kim, Eunho Yang (*: equal contribution)  
   **CVPR** 2026  
-  [Paper](https://arxiv.org/abs/2511.21185) · [Project Page](https://grid-ar.github.io/)
+  [Paper](https://arxiv.org/abs/2511.21185) · [Project Page](https://grid-ar.github.io/) · [Code](https://github.com/JoonHyung-Park/GridAR)
 
 - **Delta-XAI: A Unified Framework for Explaining Prediction Changes in Online Time Series Monitoring**  
   Changhun Kim\*, Yechan Mun\*, **Hyeongwon Jang**, Eunseo Lee, Sangchul Hahn, Eunho Yang (*: equal contribution)  
   **ICLR** 2026  
-  [Paper](https://arxiv.org/abs/2511.23036)
+  [Paper](https://arxiv.org/abs/2511.23036) · [OpenReview](https://openreview.net/forum?id=ZHW5pp5nE5) · [Code](https://github.com/AITRICS/Delta-XAI)
 
 - **TIMING: Temporality-Aware Integrated Gradients for Time Series Explanation**  
   **Hyeongwon Jang\***, Changhun Kim\*, Eunho Yang (*: equal contribution)  
   **ICML** 2025 **<span style="color:#c62828;">(Spotlight Presentation, 313/12107 = 2.6%)</span>**  
-  [Paper](https://arxiv.org/abs/2506.05035) · [Code](https://github.com/drumpt/TIMING)
+  Also presented at the ICLR 2025 Workshop on XAI4Science and the CIKM 2025 Workshop on Human-Centric AI (Oral, **Best Paper Award**)  
+  [Paper](https://arxiv.org/abs/2506.05035) · [OpenReview](https://openreview.net/forum?id=qOgKMqv9T7) · [Code](https://github.com/drumpt/TIMING)
 
 - **Time Series Classification with Large Language Models via Linguistic Scaffolding**  
   **Hyeongwon Jang\***, June Yong Yang\*, Jaeryong Hwang, Eunho Yang (*: equal contribution)  
   IEEE Access 2024  
-  [Paper](https://ieeexplore.ieee.org/document/10706904)
+  [Paper](https://ieeexplore.ieee.org/document/10706904) · [Code](https://github.com/HyeongWon-Jang/LSTST)
 
 - **Language-Interfaced Tabular Oversampling via Progressive Imputation and Self-Authentication**  
   June Yong Yang\*, Geondo Park\*, Joowon Kim, **Hyeongwon Jang**, Eunho Yang (*: equal contribution)  
@@ -89,6 +96,7 @@ I am a Ph.D. student in Artificial Intelligence at the Korea Advanced Institute 
 
 ## Honors & Awards
 
+- **Best Paper Award**, CIKM 2025 Workshop on Human-Centric AI, 2025
 - **Travel Award**, International Conference on Machine Learning (ICML), 2025
 - **Summa Cum Laude**, Seoul National University, 2024
 - **Hansung Scholarship**, 2020
@@ -99,4 +107,4 @@ I am a Ph.D. student in Artificial Intelligence at the Korea Advanced Institute 
 
 - **TIMING: Temporality-Aware Integrated Gradients for Time Series Explanation**  
   Samsung AI Forum (SAIF) 2025 — Sep. 2025  
-  CIKM 2025 Workshop on Human-Centric AI, Oral Presentation — Oct. 2025
+  CIKM 2025 Workshop on Human-Centric AI, Oral Presentation — Nov. 2025
