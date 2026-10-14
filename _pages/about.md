@@ -29,8 +29,8 @@ I am a Ph.D. student in Artificial Intelligence at the Korea Advanced Institute 
   Preprint  
   [Paper](https://arxiv.org/abs/2606.09030) · [Project Page](https://hyeongwon-jang.github.io/triage-project-page/) · [Code](https://github.com/HyeongWon-Jang/TRIAGE) · [Models](https://huggingface.co/collections/Hyeongwon/triage)
 
-- **TreeText-CTS: Compact, Source-Traceable Tree-Path Evidence for Irregular Clinical Time-Series Prediction**  
-  Kwanhyung Lee, Juhwan Choi, Jongheon Kim, Joohyung Lee, **Hyeongwon Jang**, Eunho Yang  
+- **Learning to Select Source-Traceable Evidence for Language-Model Prediction from Irregular Clinical Time Series**  
+  Kwanhyung Lee, Juhwan Choi, Jongheon Kim, Joohyung Lee, **Hyeongwon Jang**, Jeonguk Lee, Jisoo Jung, Eunho Yang  
   Preprint  
   [Paper](https://arxiv.org/abs/2605.20292)
 
