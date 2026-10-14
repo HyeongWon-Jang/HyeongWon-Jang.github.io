@@ -108,3 +108,9 @@ I am a Ph.D. student in Artificial Intelligence at the Korea Advanced Institute 
 - **TIMING: Temporality-Aware Integrated Gradients for Time Series Explanation**  
   Samsung AI Forum (SAIF) 2025 — Sep. 2025  
   CIKM 2025 Workshop on Human-Centric AI, Oral Presentation — Nov. 2025
+
+<div id="services"></div>
+
+## Academic Services
+
+- **Reviewer**: NeurIPS 2026
