@@ -68,46 +68,44 @@ I am a Ph.D. student in Artificial Intelligence at the Korea Advanced Institute 
 
 ## Education
 
-- **Korea Advanced Institute of Science and Technology (KAIST)**  
-  Ph.D. Student in Artificial Intelligence (Integrated M.S.-Ph.D. Program)  
-  Advisor: Prof. Eunho Yang  
-  Sep. 2024 – Present  
-
-- **Seoul National University (SNU)**  
-  B.S. in Mathematical Sciences, Artificial Intelligence (Double Major)  
-  Mar. 2021 – Aug. 2024  
+<ul class="entry-list">
+  <li class="entry"><span class="entry__main"><strong>KAIST</strong>, Ph.D. Student in Artificial Intelligence (Integrated M.S.-Ph.D.)<span class="entry__sub">Advisor: Prof. Eunho Yang</span></span><span class="entry__date">Sep. 2024 – Present</span></li>
+  <li class="entry"><span class="entry__main"><strong>Seoul National University</strong>, B.S. in Mathematical Sciences, Artificial Intelligence (Double Major)</span><span class="entry__date">Mar. 2021 – Aug. 2024</span></li>
+</ul>
 
 <div id="experience"></div>
 
 ## Experience
 
-- **AITRICS – Virtual Doctor Team**, Seoul, South Korea  
-  *Research Intern*  
-  Nov. 2024 – Dec. 2024
-
-- **KAIST Machine Learning & Intelligence Lab (MLILAB)**, Daejeon, South Korea  
-  *Undergraduate Research Intern*  
-  Advisor: Prof. Eunho Yang  
-  Jun. 2023 – Aug. 2024  
+<ul class="entry-list">
+  <li class="entry"><span class="entry__main"><strong>AITRICS</strong>, Research Intern, Virtual Doctor Team<span class="entry__sub">Seoul, South Korea</span></span><span class="entry__date">Nov. 2024 – Dec. 2024</span></li>
+  <li class="entry"><span class="entry__main"><strong>KAIST MLILAB</strong>, Undergraduate Research Intern<span class="entry__sub">Advisor: Prof. Eunho Yang</span><span class="entry__sub">Daejeon, South Korea</span></span><span class="entry__date">Jun. 2023 – Aug. 2024</span></li>
+</ul>
 
 <div id="awards"></div>
 
 ## Honors & Awards
 
-- **Travel Award**, International Conference on Machine Learning (ICML), 2025
-- **Summa Cum Laude**, Seoul National University, 2024
-- **Hansung Scholarship**, 2020
+<ul class="entry-list">
+  <li class="entry"><span class="entry__main"><strong>Travel Award</strong>, International Conference on Machine Learning (ICML)</span><span class="entry__date">2025</span></li>
+  <li class="entry"><span class="entry__main"><strong>Summa Cum Laude</strong>, Seoul National University</span><span class="entry__date">2024</span></li>
+  <li class="entry"><span class="entry__main"><strong>Hansung Scholarship</strong></span><span class="entry__date">2020</span></li>
+</ul>
 
 <div id="talks"></div>
 
 ## Invited Talks
 
-- **TIMING: Temporality-Aware Integrated Gradients for Time Series Explanation**  
-  Samsung AI Forum (SAIF) 2025 — Sep. 2025  
-  CIKM 2025 Workshop on Human-Centric AI, Oral Presentation — Nov. 2025
+<ul class="entry-list">
+  <li class="entry entry--heading"><span class="entry__main"><strong>TIMING: Temporality-Aware Integrated Gradients for Time Series Explanation</strong></span></li>
+  <li class="entry entry--indent"><span class="entry__main">Samsung AI Forum (SAIF) 2025</span><span class="entry__date">Sep. 2025</span></li>
+  <li class="entry entry--indent"><span class="entry__main">CIKM 2025 Workshop on Human-Centric AI, Oral Presentation</span><span class="entry__date">Nov. 2025</span></li>
+</ul>
 
 <div id="services"></div>
 
 ## Academic Services
 
-- **Reviewer**: NeurIPS 2026
+<ul class="entry-list">
+  <li class="entry"><span class="entry__main"><strong>Reviewer</strong>, Conference on Neural Information Processing Systems (NeurIPS)</span><span class="entry__date">2026</span></li>
+</ul>
